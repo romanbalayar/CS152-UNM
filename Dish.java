@@ -1,3 +1,4 @@
+//Dish file
 public class Dish {
     private String name;
     private double price;
